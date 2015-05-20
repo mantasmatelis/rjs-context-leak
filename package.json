@@ -1,0 +1,16 @@
+{
+  "name": "show-rjs-context-leak",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "requirejs": "^2.1.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mantas Matelis <me@mantasmatelis.com>",
+  "license": "All rights reserved."
+}
